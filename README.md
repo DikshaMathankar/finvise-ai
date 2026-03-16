@@ -29,9 +29,6 @@ pip install -r requirements.txt
 ### 3. Run the app
 streamlit run app.py
 
-### 4. Open browser
-http://localhost:8501
-
 ## Architecture
 1. User enters NSE/BSE ticker
 2. yFinance fetches live stock data
