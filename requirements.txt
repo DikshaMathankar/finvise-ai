@@ -1,1 +1,8 @@
-
+streamlit
+yfinance
+requests
+gtts
+moviepy==1.0.3
+Pillow
+numpy
+curl_cffi
