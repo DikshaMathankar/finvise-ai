@@ -1,7 +1,7 @@
 # FinVise AI - Indian Stock Market Intelligence Platform
 
 ## Live URL
-https://dikshamathankar-finvise-ai.streamlit.app
+https://tetragonal-subcallosal-elana.ngrok-free.dev/
 
 ## What it does
 - Real-time NSE/BSE stock data for any ticker
