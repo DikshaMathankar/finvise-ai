@@ -1,10 +1,14 @@
 streamlit
-yfinance
+yfinance==0.2.38
 requests
 gtts
 moviepy==1.0.3
 Pillow
 numpy
 curl_cffi
+decorator==4.4.2
+imageio==2.9.0
+imageio-ffmpeg==0.4.5
+tqdm
 
 
